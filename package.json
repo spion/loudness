@@ -1,0 +1,15 @@
+{
+  "name": "loudness",
+  "version": "0.1.0",
+  "description": "Simple loudness monitor based on arecord",
+  "main": "loudness.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "nodeunit tests"
+  },
+  "repository": "",
+  "author": "spion <gorgi.kosev@gmail.com>",
+  "license": "BSD"
+}
